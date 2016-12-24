@@ -9,6 +9,3 @@ Of course, opening a blog is not the hardest of tasks, it does in fact take 5 mi
 After three months with occasional ideas for posts that I would have loved to write in my own fitness blog, I realized that maybe a more constructive strategy is to start small, and to expand later. So I settled down with a rather lame name and just downloaded a pre-made jekyll template from github pages, which will postpone the more aesthetic/perfectionistic issues to a (distant) future date.
 
 Anyway, all the rambling aside, I plan to write here about my reflections about my own training and diet, ideas on improvement of both of these aspects, and probably occasional meaningless gym diary entries.
-
-# POSTS
-## [One month of calorie counting]({{ site.baseurl }}{% link _posts/2016-12-24-one-month-of-calorie-counting.md %})
