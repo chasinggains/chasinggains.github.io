@@ -10,5 +10,5 @@ After three months with occasional ideas for posts that I would have loved to wr
 
 Anyway, all the rambling aside, I plan to write here about my reflections about my own training and diet, ideas on improvement of both of these aspects, and probably occasional meaningless gym diary entries.
 
-# POSTS
-## [One month of calorie counting]({{ site.baseurl }}{% link _posts/2016-12-24-one-month-of-calorie-counting.md %})
+POSTS:
+[One month of calorie counting]({{ site.baseurl }}{% link _posts/2016-12-24-one-month-of-calorie-counting.md %})
