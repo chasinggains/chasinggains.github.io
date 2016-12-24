@@ -1,3 +1,11 @@
 ---
 layout: default
 ---
+
+I've been meaning to start a blog for a while, one in which I document my experience and struggles in lifting and gaining weight. Though the thought occurred to me already three months ago, I was going through a tough time in life and just didn't find the willpower to follow through. 
+
+Of course, opening a blog is not the hardest of tasks, it does in fact take 5 minutes with any of the popular blogging sites. However, having had blogged before on a few popular providers, I knew that I wasn't looking forward to using the interfaces, skins or page layouts of these options. When I found out about this github + jekyll combination I was sold instantly. However, this required a bit of gruntwork, such as installing jekyll and fixing installation problems, figuring out how it works, finding a cool name for the repository/site (that one probably set me back the most!) I realized I was too overwhelmed to start a blog let alone run a blog (the latter is harder in the long term, but for the earlier there is a high initial time cost to figure out everything).
+
+After three months with occasional ideas for posts that I would have loved to write in my own fitness blog, I realized that maybe a more constructive strategy is to start small, and to expand later. So I settled down with a rather lame name and just downloaded a pre-made jekyll template from github pages, which will postpone the more aesthetic/perfectionistic issues to a (distant) future date.
+
+Anyway, all the rambling aside, I plan to write here about my reflections about my own training and diet, ideas on improvement of both of these aspects, and probably occasional meaningless gym diary entries.
