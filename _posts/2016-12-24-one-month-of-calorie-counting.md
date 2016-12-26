@@ -16,7 +16,7 @@ It turns out that I was actually "cheating" too often. I was counting my calorie
 
 Alas, I was completely wrong. Talk about self-honesty issues and all that. Below you see a screenshot from a spreadsheet I made, which contains a month's worth of calorie logs. On the days marked red I ate too far too little, and the green cells show the days in which I hit my goal (+2800 calories).
 
-![Calorie count for a month]({{ site.url }}/assets/calories.png)
+![Calorie count for a month]({{ site.url }}/assets/images/calories.png)
 
 From here, it can be seen that for each day that I hit my goal, there was another day where I didn't even come close to it. This explains why I have not been gaining weight: I had some sort of a memory bias about my calorie intake, forgetting all the days I was eating below my goal.
 
