@@ -6,30 +6,36 @@ Those who have tried gaining weight before and did their required reading on the
 
 The problem with this is that most people find it difficult to count calories consistently. It is a lot of effort. First of all, in foods eaten at home, every food or cooking ingredient has to be measured through a scale. Then, the nutritional value of this amount of food should be sought through the nutrition label or through googling, then multiplied with the amount used, and then added up. As if this were not difficult enough, let's say a large amount of food is cooked and it can't be eaten in one sitting. How many calories did I just put on this plate?  Yet another problem is when one eats out, in which case the nutrition information of most foods are not provided. How many grams of rice (by dry weight) are on this plate? How much bread is in this sandwich? That slice of cheese? What about that steak? Basically it is a lot of estimation, research and mental arithmetics.
 
-I know, all of this sounds somewhat discouraging. However, calorie counting is something that is absolutely necessary for weight gain; because let's admit it, if you could eat enough by yourself without being reminded, you wouldn't be skinny in the first place.
+You might say that something like an app such as myfitnesspal is the solution. But the annoying ads, slowness of the app, paid features, and the confusion caused by all the different food options just don't do it for me. 
 
-Now, I have been counting calories for pretty much the whole year, but I still haven't gained weight since January. What happened there?
+Anyway, I know that all of this sounds somewhat discouraging. However, calorie counting is something that is absolutely necessary for weight gain; because let's admit it, if you could eat enough by yourself without being reminded, you wouldn't be skinny in the first place.
 
-Clearly I wasn't eating enough, which is the rather obvious answer. But was I not eating enough because my actual TDEE was higher than the estimation of this formula, or was it because I was eating less than I imagined? This is important to figure out, because the solution to each culprit is different. If for some reason I have a freakishly high TDEE, then the only way to gain is to also increase the calorie goal. But if my expenditure is as expected and I'm actually not hitting my goals, then the solution is to troubleshoot my eating behavior.
+Now, I have been counting calories off my head for pretty much the whole year, but I still haven't gained weight since January. What happened there?
 
-It turns out that I was actually "cheating" too often. I was counting my calories on a day-to-day basis in my head, without logging it anywhere. And of course, there were days where I couldn't hit my goal. It felt like it was a rather seldom occurrence, so I still expected my bodyweight to increase.
+Clearly I wasn't eating enough, which is the rather obvious answer. But was I not eating enough because my actual TDEE was higher than the estimation of this formula, or was it because I was eating less than I imagined? This is important to figure out, because the solution to each case is different. If for some reason I have a freakishly high TDEE, then the only way to gain is to also increase the calorie goal. But if my expenditure is as expected and I'm actually not hitting my goals, then the solution is to troubleshoot my eating behavior.
 
-Alas, I was completely wrong. Talk about self-honesty issues and all that. Below you see a screenshot from a spreadsheet I made, which contains a month's worth of calorie logs. On the days marked red I ate too far too little, and the green cells show the days in which I hit my goal (+2800 calories).
+So I set out to *really* log my calories this time, adding up and logging each day's intake using a fancy spreadsheet I made for myself (I'll admit, I spoil myself with these spreadsheets too often). I did this for a month, while also taking bodyweight measurements as close to daily as possible.
 
-![Calorie count for a month]({{ site.url }}/assets/calories.png)
+The result? It turns out that I was actually "cheating" too often. Naturally, there were days where I couldn't hit goal calories. However, it felt like it was a rather seldom occurrence, so I still expected my bodyweight to increase.
 
-From here, it can be seen that for each day that I hit my goal, there was another day where I didn't even come close to it. This explains why I have not been gaining weight: I had some sort of a memory bias about my calorie intake, forgetting all the days I was eating below my goal.
+Alas, I was completely wrong. Talk about self-honesty issues and all that. Below you see a screenshot from the fancy spreadsheet. On the days marked red I ate too far too little, and the green cells show the days in which I hit my goal (+2800 calories).
 
-Interestingly (or not), average calorie consumption was around 2600 and the starting and ending bodyweight measurements were almost exactly the same (hovering around 71 kg, a little lower in the beginning, a little higher in the end).
+![Calorie count for a month]({{ site.url }}/assets/images/calories.png)
 
-The lesson to take from this cautionary tale is that logging calories properly is important, and it's easy to fall victim to psychological biases.
+From here, it can be seen that for each day that I hit my goal, there was another day where I didn't even come close to it. This explains why I have not been gaining weight: I have some sort of a memory bias about my calorie intake, forgetting all the days I was eating below my goal.
 
-But now knowing that I am inconsistent with my calorie intake, what is the solution?
+Interestingly (or not), average calorie consumption was around 2600 and the starting and ending bodyweight measurements were almost exactly the same (hovering around 71 kg).
 
-I've been thinking about this a lot in the last few days. Here is the best solution I came up with.
+The lesson to take from this cautionary tale is that logging calories *properly* is important, and it's easy to fall victim to psychological biases. The best way to achieve self-honesty is to enforce it through mechanisms which make it easier to be objective.
 
-Being painfully aware of how much my calorie intake changed (I mean, seriously, what is 1500 calories???), I just wanted to look at this variation as a quantitative variable, so I took the standard deviation of the data, which turned out to be ~520 kcal. That means that on %95 of my days I am around ±2 SD, which is 1560 and 3640 calories. That's a rather large range, isn't it? Maybe instead of setting a calorie goal of X, I had better reduce this range first.
+Setting that aside; knowing that I am inconsistent with my calorie intake, what do I do?
 
-So my goal for the next week, which starts tomorrow, is to reduce the standard deviation to a minimum while eating maintenance calories. If I can manage that, then I can increase the calories ever so slightly, maybe around 50-100 per day each week.
+I've been thinking about this a lot in the last few days.
 
-And maybe then the gains will come.
+Being painfully aware of how much my calorie intake changed day-to-day (I mean, seriously, what is 1500 calories???), I just wanted to look at this variation as a quantitative variable, so I took the standard deviation of the data, which turned out to be ~520 kcal. That means that on %95 of my days I am around ±2 SD, which is 1560 and 3640 calories. That's a rather large range, isn't it? Maybe instead of setting a calorie goal of X, I thought I had better reduce this range first.
+
+So my goal for the next week, is to reduce this variation while eating around maintenance calories. That means that every day I will try to eat between 2600-2700 calories. If I can manage that, then I can increase the calories ever so slightly, maybe around 50-100 kcal/day every week. But I suspect that this will take longer than a week, since consistency in a diet is highly correlated to the adherence to a daily plan, and this aspect of my life is also out of whack.
+
+...who knows, maybe one kind of gains will bring another kind of gains. Maybe through my narcissistic efforts to be fit, I can find the strength to put my life in order.
+
+May we be blessed with all kinds of Christmas gains.
